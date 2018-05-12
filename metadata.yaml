@@ -1,0 +1,30 @@
+_repo: The-Scottish-ParliamentBefore-the-Union-of-the-Crowns_46106
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46106-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rait, Robert S. (Robert Sangster)
+    aliases:
+    - Rait, R. S. (Robert Sangster)
+    - Rait, Robert Sangster, Sir
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '6844'
+    url: http://www.gutenberg.org/2009/agents/6844
+description: The Scottish Parliament / Robert S. Rait -- The Scottish Crown and the
+  Papacy, 1424-1560 / Robert Kerr Hannay.
+gutenberg_issued: '2014-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland. Parliament -- History'
+- !lcc 'DA'
+title: The Scottish Parliament Before the Union of the Crowns
+url: http://www.gutenberg.org/ebooks/46106
